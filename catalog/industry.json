@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "title": "Energy, Utilities & Natural Resources",
+  "slug": "CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources",
+  "container": "ciso-industry-2-dev",
+  "volume": "ciso-industry-2-workspace",
+  "sectors": [
+    {
+      "title": "Oil & Gas",
+      "folder": "Oil & Gas",
+      "scope": "Upstream exploration/production, midstream transportation/storage, and downstream refining/marketing."
+    },
+    {
+      "title": "Energy & Utilities",
+      "folder": "Energy & Utilities",
+      "scope": "Power generation, transmission, distribution, water management, and waste services."
+    },
+    {
+      "title": "Renewables & CleanTech",
+      "folder": "Renewables & CleanTech",
+      "scope": "Solar, wind, hydro, green hydrogen, and battery storage."
+    },
+    {
+      "title": "Mining & Metals",
+      "folder": "Mining & Metals",
+      "scope": "Extraction and processing of minerals, steel, aluminum, and precious metals."
+    },
+    {
+      "title": "Chemicals",
+      "folder": "Chemicals",
+      "scope": "Petrochemicals, specialty chemicals, fertilizers, and industrial gases."
+    }
+  ]
+}

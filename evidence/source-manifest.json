@@ -1,0 +1,21 @@
+{
+  ".gitignore": "9b58848d6b86ddfc5d6d29f6b1bfb0e00033ee696c0bee5240189ff97cb39d49",
+  "AGENTS.md": "84efbbf72f8919aa52650a69aecd4fff7f3991a9356c76472b010f02accdd671",
+  "CONTRIBUTING.md": "bdb967534cc379bd1980b80c04bef19f3e4700ce96691e959a3f2fabd717cf88",
+  "Chemicals/README.md": "295c2de1d205a489f700e734f99c93a4a0856407c3aa3956794fd114adbf9546",
+  "Energy & Utilities/README.md": "d4dec5606e327eb6ef467eccdf800fe9c5947d290bb7d6fcccd69f3a31608550",
+  "INDUSTRY-PORTFOLIO.md": "34bc40c45251ea439544ea1513b5d2646050e79867e4c1827eb695bc55edd469",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "Mining & Metals/README.md": "f7780d3a951993465870918c799adcc4a232c3bc7c670a432507310800f2acb1",
+  "Oil & Gas/README.md": "c79bbe66e91b8a419f54d36a47a584b181a3d0d95b5e4caf2595bc5b885452dd",
+  "Oil & Gas/RESEARCH-BACKLOG.md": "d237fd7af6f13d7f42568119c14921a86d9fac8acbd4439d4b39a8528e21dde7",
+  "Oil & Gas/case-studies/sovereign-disconnected-cloud-reference.md": "7e40cf77341a3f2c5ad2d62fb5311828d17c4a1c09bb05eb850d76f77e5e550f",
+  "Oil & Gas/templates/sector-decision-record.md": "f1689bc73a79dee915d2fd6cfe279bd45df56465028302ce8b39c59665f0eb9a",
+  "README.md": "7c5c1943a744d3b3adb0dcc69b31a10ddc3175d6ce65dd0fcfc04f3f371dc281",
+  "Renewables & CleanTech/README.md": "d0078878ba5eba9dcb35e1159d95115b3c40511639fd85a9bffa0d96cf4da23e",
+  "SECURITY.md": "660145df75390defa74061bdadde1c6c18d5757987e1ef9b7bef2c2d6e14af91",
+  "catalog/industry.json": "c8f23cf5183f228bb9a8ac989d58442abbbda841921a462d276fc18d9edbf73a",
+  "migration/oil-gas-security.json": "68cab1f61914e29caa73277d8b7924d1f57ca2def60c33bbedfa6c15e36f50a2",
+  "tools/README.md": "ed9feba3047c466ebd6a0885c718e7ad4b4b9cd6e8041255b99b1bc912304f52",
+  "tools/check_catalog.py": "7622855182148aa4d09231281ee93da90973e41cc879d770e8b930ec30a4cf70"
+}

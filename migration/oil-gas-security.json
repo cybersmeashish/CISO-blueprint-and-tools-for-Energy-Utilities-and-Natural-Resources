@@ -1,0 +1,38 @@
+{
+  "source_repository": "cybersmeashish/oil-gas-security",
+  "source_commit": "206a9fd13cf352fc0fdd1d5e97a0eab5762c3b96",
+  "target_repository": "cybersmeashish/CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources",
+  "target_folder": "Oil & Gas",
+  "migration_date": "2026-11-24",
+  "files": [
+    {
+      "source_path": "README.md",
+      "target_path": "Oil & Gas/README.md",
+      "sha256": "c79bbe66e91b8a419f54d36a47a584b181a3d0d95b5e4caf2595bc5b885452dd",
+      "git_blob_sha": "61ec38c1b787f06c7c40fa0ba28cd264f8d61755",
+      "bytes": 2555
+    },
+    {
+      "source_path": "RESEARCH-BACKLOG.md",
+      "target_path": "Oil & Gas/RESEARCH-BACKLOG.md",
+      "sha256": "d237fd7af6f13d7f42568119c14921a86d9fac8acbd4439d4b39a8528e21dde7",
+      "git_blob_sha": "5da2a494f7c67e67930386cd1082a45c6e6fea76",
+      "bytes": 846
+    },
+    {
+      "source_path": "case-studies/sovereign-disconnected-cloud-reference.md",
+      "target_path": "Oil & Gas/case-studies/sovereign-disconnected-cloud-reference.md",
+      "sha256": "7e40cf77341a3f2c5ad2d62fb5311828d17c4a1c09bb05eb850d76f77e5e550f",
+      "git_blob_sha": "ecc7281b2956c4056c8f43ed30cf1149de8bba3c",
+      "bytes": 1513
+    },
+    {
+      "source_path": "templates/sector-decision-record.md",
+      "target_path": "Oil & Gas/templates/sector-decision-record.md",
+      "sha256": "f1689bc73a79dee915d2fd6cfe279bd45df56465028302ce8b39c59665f0eb9a",
+      "git_blob_sha": "9fee35eae7816beedc2e781870d7476b8c9eb0ed",
+      "bytes": 557
+    }
+  ],
+  "scope": "complete original public sector workspace; files copied without content changes"
+}

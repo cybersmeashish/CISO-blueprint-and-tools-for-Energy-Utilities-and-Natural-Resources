@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-11-24T07:24:48.756412+00:00",
+  "repository": "CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources",
+  "industry": "Energy, Utilities & Natural Resources",
+  "sector_folders": 5,
+  "folder_names": [
+    "Oil & Gas",
+    "Energy & Utilities",
+    "Renewables & CleanTech",
+    "Mining & Metals",
+    "Chemicals"
+  ],
+  "local_links_checked": 16,
+  "source_files_hashed": 19,
+  "migrations": [
+    {
+      "source_repository": "cybersmeashish/oil-gas-security",
+      "source_commit": "206a9fd13cf352fc0fdd1d5e97a0eab5762c3b96",
+      "target_folder": "Oil & Gas",
+      "original_files_byte_verified": 4
+    }
+  ],
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "root_read_only": true,
+  "workspace_read_only": true,
+  "scope": "structure/link and migration byte checks; no sector-control, deployment or compliance tests"
+}
